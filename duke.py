@@ -1,9 +1,5 @@
 import subprocess
 import shlex
-import logging
-import sys
-import os
-import time
 import select
 
 from twilio.rest import Client
